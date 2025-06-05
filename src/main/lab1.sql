@@ -10,3 +10,4 @@
 -- | Hotel California | Eagles       |
 -- | Kashmir          | Led Zeppelin |
 -- TODO: Create a SQL statement below that drops the Song table.
+DROP TABLE song;
